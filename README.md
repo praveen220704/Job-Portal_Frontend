@@ -1,8 +1,11 @@
-# React + Vite
+## Job Portal Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a job portal application where users can search for jobs and apply for them.
 
-Currently, two official plugins are available:
+### Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Users can view all the jobs available.
+- Users can apply for a specific job.
+- Admin can add new companies.
+- Admin can add new jobs.
+- Admin can view all the applications for a specific job.
